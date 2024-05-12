@@ -1,6 +1,5 @@
 # Developing a Neural Network Regression Model
-### Name: DEVADARSHAN A S
-### Reference No: 212222110007
+
 ## AIM:
 To develop a neural network regression model for the given dataset.
 
