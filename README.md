@@ -92,10 +92,10 @@ ai_model.predict(X_n1_1)
 ![image](https://github.com/DEVADARSHAN2/basic-nn-model/assets/119432150/e97a1b57-785b-491a-93c9-88e143b164a4)
 
 ### Test Data Root Mean Squared Error
-![image](https://github.com/DEVADARSHAN2/basic-nn-model/assets/119432150/603e0280-5095-4727-9d25-100cbbb7ea8a)
+![image](https://github.com/DEVADARSHAN2/basic-nn-model/assets/119432150/c863496c-4f3f-4713-b1da-362540b97cf4)
 
 ### New Sample Data Prediction
-![image](https://github.com/DEVADARSHAN2/basic-nn-model/assets/119432150/209849b5-d221-487e-86e2-5bdee3f1db51)
+![image](https://github.com/DEVADARSHAN2/basic-nn-model/assets/119432150/604ea531-acf9-46e6-a88d-3d2a809f5423)
 
 ## RESULT
 A neural network regression model for the given dataset has been developed successfully.
